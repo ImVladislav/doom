@@ -250,7 +250,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .header__logo img {
-    width: 100%
+    /* width: 100% */
 }
 
 .header__button {
@@ -2770,9 +2770,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 @media (min-width: 20em)and (max-width:91.875em) {
-    .header__logo {
+    /* .header__logo {
         width:clamp(10rem ,9.652173913rem + 1.7391304348vw ,11.25rem)
-    }
+    } */
 
     .header__play {
         width: clamp(3.68rem ,3.556173913rem + .6191304348vw ,4.125rem)
