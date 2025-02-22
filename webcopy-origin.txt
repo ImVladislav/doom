@@ -1,0 +1,136 @@
+Uri: https://endonsol.xyz/
+File Name: C:\Downloaded Web Sites\endonsol.xyz\index.htm
+Content Type: text/html
+
+Uri: https://endonsol.xyz/css/style.min.css
+File Name: C:\Downloaded Web Sites\endonsol.xyz\css\style.min.css
+Content Type: text/css
+
+Uri: https://endonsol.xyz/favicon.ico
+File Name: C:\Downloaded Web Sites\endonsol.xyz\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://endonsol.xyz/fonts/MullerNextExpandedTrial-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\endonsol.xyz\fonts\MullerNextExpandedTrial-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://endonsol.xyz/fonts/MullerNextExpandedTrial-Heavy.woff2
+File Name: C:\Downloaded Web Sites\endonsol.xyz\fonts\MullerNextExpandedTrial-Heavy.woff2
+Content Type: font/woff2
+
+Uri: https://endonsol.xyz/fonts/MullerNextExpandedTrial-Regular.woff2
+File Name: C:\Downloaded Web Sites\endonsol.xyz\fonts\MullerNextExpandedTrial-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://endonsol.xyz/fonts/MullerNextExtraCondTrial-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\endonsol.xyz\fonts\MullerNextExtraCondTrial-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://endonsol.xyz/fonts/MullerNextTrial-Regular.woff2
+File Name: C:\Downloaded Web Sites\endonsol.xyz\fonts\MullerNextTrial-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://endonsol.xyz/fonts/MullerNextWideTrial-ExtraBold.woff2
+File Name: C:\Downloaded Web Sites\endonsol.xyz\fonts\MullerNextWideTrial-ExtraBold.woff2
+Content Type: font/woff2
+
+Uri: https://endonsol.xyz/img/BGDANCE.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\BGDANCE.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/buyHero.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\buyHero.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/hero.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\hero.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/heroTitle.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\heroTitle.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/join.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\join.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/joinBG.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\joinBG.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/joinBuy.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\joinBuy.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/joinTel.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\joinTel.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/joinX.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\joinX.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/logo.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\logo.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/logoFooter.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\logoFooter.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/mp3/pause.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\mp3\pause.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/mp3/play.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\mp3\play.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/r4.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\r4.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/r5.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\r5.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/r6.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\r6.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/roadBG1.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\roadBG1.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/soc1.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\soc1.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/soc2.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\soc2.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/soc3.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\soc3.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/soc4.svg
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\soc4.svg
+Content Type: image/svg+xml
+
+Uri: https://endonsol.xyz/img/telHero.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\telHero.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/img/video/video.mp4
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\video\video.mp4
+Content Type: video/mp4
+
+Uri: https://endonsol.xyz/img/xHero.png
+File Name: C:\Downloaded Web Sites\endonsol.xyz\img\xHero.png
+Content Type: image/png
+
+Uri: https://endonsol.xyz/js/app.min.js
+File Name: C:\Downloaded Web Sites\endonsol.xyz\js\app.min.js
+Content Type: application/javascript
+
