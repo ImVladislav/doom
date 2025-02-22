@@ -497,9 +497,15 @@ h1,h2,h3,h4,h5,h6 {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px; /* Відстань між кнопками */
+
 }
 
+@media screen and (min-width: 768px) {
+    .hero__social-container {
+
+        gap: 20px; /* Відстань між кнопками */
+    }
+}
 .hero__social-item {
     display: flex;
     justify-content: center;
