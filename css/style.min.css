@@ -2934,8 +2934,14 @@ h1,h2,h3,h4,h5,h6 {
     }
 
     .hero__social-item:nth-child(2):hover {
-        -webkit-transform: rotate(4.613deg) scaleY(1.2) scaleX(1.05);
-        transform: rotate(4.613deg) scaleY(1.2) scaleX(1.05)
+        /* -webkit-transform: rotate(4.613deg) scaleY(1.2) scaleX(1.05); */
+        /* transform: rotate(4.613deg) scaleY(1.2) scaleX(1.05) */
+        scale: 1.2;
+    }
+
+    .hero__social-item:nth-child(3):hover {
+        -webkit-transform: rotate(11deg) scaleY(1.2) scaleX(1.05);
+        transform: rotate(11deg) scaleY(1.2) scaleX(1.05);
     }
 
     .hero__button:hover {
