@@ -76,7 +76,7 @@
 .progress-bar {
     position: relative;
     width: 100%;
-    max-width: 650px;
+    max-width: 850px;
     margin: 20px auto;
 
     border: 4px solid #f97061;
@@ -110,9 +110,21 @@
     transition: transform 0.3s ease, text-shadow 0.3s ease;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 550px) {
 	.progress-text {
 		font-size: 10px;
+	}
+}
+
+@media screen and (min-width: 700px) {
+	.progress-text {
+		font-size: 12px;
+	}
+}
+
+@media screen and (min-width: 880px) {
+	.progress-text {
+		font-size: 14px;
 	}
 }
 
